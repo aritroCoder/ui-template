@@ -14,8 +14,8 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/dhiway/e-journal-ui.git
-cd e-journal-ui
+git clone https://github.com/aritroCoder/ui-template.git
+cd ui-template
 pnpm install  # or use npm install / yarn install
 ```
 
